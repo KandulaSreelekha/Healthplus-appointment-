@@ -12,8 +12,9 @@ This is a React-based website aimed at providing accessible and personalized hea
 
 To run the project locally:
 
-1. Clone this repository: `git clone https://github.com/KandulaSreelekha/Healthplus-appointment.git`
-2. Navigate to the project directory: `cd Health-Plus`
+1. Clone this repository: `git clone https://github.com/KandulaSreelekha/Healthplus-appointment-.git`
+2. Navigate to the project directory
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
 5. Open your browser and visit: `http://localhost:3000/Health-Plus`
+
